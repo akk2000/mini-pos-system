@@ -111,7 +111,7 @@ function App() {
             disabled={Object.keys(cart).length === 0}
             style={{ width: '100%', padding: '12px', backgroundColor: '#28a745', color: 'white', border: 'none', borderRadius: '6px', fontSize: '16px', fontWeight: 'bold', cursor: 'pointer' }}
           >
-            ခေါက်আઉਟ (Checkout)
+            တွက်မယ် (Checkout)
           </button>
         </div>
       </div>
