@@ -7,6 +7,7 @@ on:
 jobs:
   deploy:
     runs-on: [self-hosted, local-vm]
+    #testing
     
     steps:
     - name: Checkout Repository Code
