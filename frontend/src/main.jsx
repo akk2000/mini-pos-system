@@ -64,7 +64,7 @@ function App() {
     <div style={{ display: 'flex', fontFamily: 'Arial, sans-serif', height: '100vh' }}>
       {/* ဘယ်ဘက်ခြမ်း: ပစ္စည်းပြခန်း (Products List) */}
       <div style={{ flex: 2, padding: '20px', overflowY: 'auto' }}>
-        <h2 style={{ color: '#333' }}>🛒 Cafe POS Menu</h2>
+        <h2 style={{ color: '#333' }}>🛒 Lotteria POS Menu</h2>
         {message && <p style={{ color: 'red' }}>{message}</p>}
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '15px' }}>
           {products.map(p => (
